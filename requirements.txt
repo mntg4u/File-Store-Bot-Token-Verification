@@ -16,3 +16,8 @@ shortzy
 aiohttp
 aiofiles
 asyncio
+Flask
+gunicorn
+Jinja2
+werkzeug
+itsdangerous
